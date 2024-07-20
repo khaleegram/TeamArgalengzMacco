@@ -26,7 +26,7 @@ The Macco project aims to address the challenges faced by educational institutio
 - Comprehensive Tracking: Maintains detailed records of student performance, aiding in academic planning and support.
 
  Getting Started
-1. Clone the repository: `git clone https://github.com/yourusername/macco-project.git`
+1. Clone the repository: `git clone https://github.com/khaleegram/TeamArgalengzMacco`
 2. Install dependencies: `npm install`
 3. Set up the database: Configure MySQL and run the migration scripts.
 4. Start the server: `npm start`
